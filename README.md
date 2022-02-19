@@ -1,6 +1,6 @@
 # DesafioCapgemini_01
 
-# Algoritmo que mostre na tela uma escada de tamanho "n" utilizando o caractere "*" e espaços.
+# Algoritmo que mostra na tela uma escada de tamanho "n" utilizando o caractere "*" e espaços.
 
 # Foi utilzado a linguagem PHP.
 
